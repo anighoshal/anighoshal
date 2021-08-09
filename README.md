@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anighoshal
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for an Internship/Job for entering into the real world
 - 📫 How to reach me (email - anirbanghoshal@gmail.com)
 
 <!---
